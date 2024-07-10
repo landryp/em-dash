@@ -16,7 +16,7 @@ bns-remnant.ipynb *# plot remnant matter contours from Kruger+Foucart 2020 fit t
 
 *the src/ directory contains the utilities needed for the analysis*
 
-fhn18.py # Foucart+ 2018 fit for remnant matter in NSBH merger simulations \
-kf20.py # Kruger+Foucart 2020 fit for remnant matter in NSBH merger simulations \
-plot.py # main plotting utility \
-utils.py # define physical constants and other useful quantities
+fhn18.py *# Foucart+ 2018 fit for remnant matter in NSBH merger simulations* \
+kf20.py *# Kruger+Foucart 2020 fit for remnant matter in NSBH merger simulations* \
+plot.py *# main plotting utility* \
+utils.py *# define physical constants and other useful quantities*
